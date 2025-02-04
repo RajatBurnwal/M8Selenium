@@ -8,5 +8,7 @@ public class Practice {
 	public void sample()
 	{
 		System.out.println("Practicing GitHub");
+		System.out.println("Git Practice");
+	
 	}
 }
